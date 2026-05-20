@@ -6,9 +6,9 @@
     "app_ios": "https://apps.apple.com/vn/app/odin-swipe-learn/id6764030170",
     "version": "1.0.2",
     "message": "Switch to the new server for faster speed.",
-    "title": "{{branch}} là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
-    "metadescription": "{{branch}} là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
-    "h1": "{{branch}} Trang Chủ – Link Đăng Nhập Chính Thức {{branch}}"
+    "title": "ODIN102 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
+    "metadescription": "ODIN102 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
+    "h1": "ODIN102 Trang Chủ – Link Đăng Nhập Chính Thức ODIN102",
     "manifest": {
       "name": "ODIN",
       "short_name": "ODIN",
@@ -33,13 +33,16 @@
       ]
     }
   },
-  "abc.com": {
+  "luck8.c1play.com": {
     "latest_domain": "https://asc.abc.com",
     "video_bg": "https://customer-1oh5o4x14e0lvwjq.cloudflarestream.com/63b60baf2b53e0e517068489a660fd49/manifest/video.m3u8",
     "logo": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/7039a05f-e812-41e2-ba37-4f87b8717800/public",
     "app_ios": "https://apps.apple.com/vn/app/odin-swipe-learn/id6764030170",
     "version": "1.0.2",
     "message": "Switch to the new server for faster speed.",
+    "title": "LUCK là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
+    "metadescription": "LUCK là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
+    "h1": "LUCK Trang Chủ – Link Đăng Nhập Chính Thức LUCK",
     "manifest": {
       "name": "ABC",
       "short_name": "ABC",
