@@ -9,29 +9,7 @@
     "title": "ODIN102 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
     "metadescription": "ODIN102 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
     "h1": "ODIN102 Trang Chủ – Link Đăng Nhập Chính Thức ODIN102",
-    "manifest": {
-      "name": "ODIN",
-      "short_name": "ODIN",
-      "start_url": "/",
-      "display": "standalone",
-      "background_color": "#ffffff",
-      "theme_color": "#000000",
-      "orientation": "portrait-primary",
-      "icons": [
-        {
-          "src": "../img/logos/main/logo21.png",
-          "sizes": "192x192",
-          "type": "image/png",
-          "purpose": "any"
-        },
-        {
-          "src": "../img/logos/main/logo21.png",
-          "sizes": "512x512",
-          "type": "image/png",
-          "purpose": "maskable"
-        }
-      ]
-    }
+    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest"
   },
   "luck8.c1play.com": {
     "latest_domain": "https://luck8.c1play.com",
@@ -43,28 +21,6 @@
     "title": "LUCK là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
     "metadescription": "LUCK là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
     "h1": "LUCK Trang Chủ – Link Đăng Nhập Chính Thức LUCK",
-    "manifest": {
-      "name": "ABC",
-      "short_name": "ABC",
-      "start_url": "/",
-      "display": "standalone",
-      "background_color": "#ffffff",
-      "theme_color": "#000000",
-      "orientation": "portrait-primary",
-      "icons": [
-        {
-          "src": "../img/logos/main/logo21.png",
-          "sizes": "192x192",
-          "type": "image/png",
-          "purpose": "any"
-        },
-        {
-          "src": "../img/logos/main/logo21.png",
-          "sizes": "512x512",
-          "type": "image/png",
-          "purpose": "maskable"
-        }
-      ]
-    }
+    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest"
   }
 }
