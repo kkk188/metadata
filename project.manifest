@@ -8,13 +8,13 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "../img/logos/main/logo21.png",
+      "src": "https://play.odin102.com/img/logos/main/logo21.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "../img/logos/main/logo21.png",
+      "src": "https://play.odin102.com/img/logos/main/logo21.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
