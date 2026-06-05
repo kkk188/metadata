@@ -1,7 +1,7 @@
 {
   "name": "ODIN",
   "short_name": "ODIN",
-  "start_url": "https://play.odin102.com",
+  "start_url": "https://play.odin102.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
