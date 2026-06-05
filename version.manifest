@@ -9,7 +9,8 @@
     "title": "ODIN102 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
     "metadescription": "ODIN102 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
     "h1": "ODIN102 Trang Chủ – Link Đăng Nhập Chính Thức ODIN102",
-    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest"
+    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest",
+"requireApp": true
   },
   "luck8.c1play.com": {
     "latest_domain": "https://luck8.c1play.com",
@@ -21,7 +22,8 @@
     "title": "LUCK là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
     "metadescription": "LUCK là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
     "h1": "LUCK Trang Chủ – Link Đăng Nhập Chính Thức LUCK",
-    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest"
+    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest",
+"requireApp": true
   },
 "khin789.app": {
     "latest_domain": "https://khin789.app",
@@ -33,6 +35,7 @@
     "title": "KHIN789 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
     "metadescription": "KHIN789 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
     "h1": "KHIN789 Trang Chủ – Link Đăng Nhập Chính Thức KHIN789",
-    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.kh789.manifest"
+    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.kh789.manifest",
+    "requireApp": false
   }
 }
