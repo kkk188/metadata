@@ -40,5 +40,19 @@
     "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.kh789.manifest",
     "requireApp": false,
 "favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
+  },
+  "cpc168.net": {
+    "latest_domain": "https://cpc168.net",
+    "video_bg": "https://customer-1oh5o4x14e0lvwjq.cloudflarestream.com/63b60baf2b53e0e517068489a660fd49/manifest/video.m3u8",
+    "logo": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/298be1c0-3d6d-4132-65f3-df391a4d3300/public",
+    "app_ios": "https://apps.apple.com/vn/app/odin-swipe-learn/id6764030170",
+    "version": "1.0.2",
+    "message": "Switch to the new server for faster speed.",
+    "title": "CPC168 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
+    "metadescription": "CPC168 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
+    "h1": "CPC168 Trang Chủ – Link Đăng Nhập Chính Thức CPC168",
+    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.cpc168.manifest",
+    "requireApp": false,
+"favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
   }
 }
