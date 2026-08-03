@@ -1,0 +1,23 @@
+{
+  "name": "BEST88",
+  "short_name": "BEST88",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/e14800db-c6fe-4722-50b4-c406798dcd00/public",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/9aed053e-172b-4070-9554-2133e1be9500/public",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
