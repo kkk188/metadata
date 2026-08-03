@@ -10,8 +10,8 @@
     "metadescription": "ODIN102 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
     "h1": "ODIN102 Trang Chủ – Link Đăng Nhập Chính Thức ODIN102",
     "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest",
-"requireApp": true,
-"favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
+    "requireApp": true,
+    "favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
   },
   "luck8.c1play.com": {
     "latest_domain": "https://luck8.c1play.com",
@@ -24,10 +24,10 @@
     "metadescription": "LUCK là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
     "h1": "LUCK Trang Chủ – Link Đăng Nhập Chính Thức LUCK",
     "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.manifest",
-"requireApp": true,
-"favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
+    "requireApp": true,
+    "favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
   },
-"khin789.app": {
+  "khin789.app": {
     "latest_domain": "https://khin789.app",
     "video_bg": "https://customer-1oh5o4x14e0lvwjq.cloudflarestream.com/63b60baf2b53e0e517068489a660fd49/manifest/video.m3u8",
     "logo": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/298be1c0-3d6d-4132-65f3-df391a4d3300/public",
@@ -39,7 +39,7 @@
     "h1": "KHIN789 Trang Chủ – Link Đăng Nhập Chính Thức KHIN789",
     "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.kh789.manifest",
     "requireApp": false,
-"favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
+    "favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
   },
   "cpc168.net": {
     "latest_domain": "https://cpc168.net",
@@ -53,6 +53,20 @@
     "h1": "CPC168 Trang Chủ – Link Đăng Nhập Chính Thức CPC168",
     "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.cpc168.manifest",
     "requireApp": false,
-"favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
+    "favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
+  },
+  "best88.asia": {
+    "latest_domain": "https://best88.asia",
+    "video_bg": "https://bshots.eg7825.com/thumbnail/hero_goldenwealth_baccarat_video.mp4",
+    "logo": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b15dd148-2dff-4bf9-38e9-a4b19ddad300/public",
+    "app_ios": "https://apps.apple.com/vn/app/odin-swipe-learn/id6764030170",
+    "version": "1.0.2",
+    "message": "Switch to the new server for faster speed.",
+    "title": "BEST88 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao",
+    "metadescription": "BEST88 là thương hiệu hàng đầu Châu Á, mang đến trải nghiệm giải trí đỉnh cao với hệ thống 🎮 đa dạng, độc quyền cùng tỷ lệ ⭐️ cao nhất thị trường như hàng ngàn trò chơi 🎰, 🐟, 🎯 và ⚽️, 🎲 và 🐓.",
+    "h1": "BEST88 Trang Chủ – Link Đăng Nhập Chính Thức BEST88",
+    "manifest": "https://raw.githubusercontent.com/kkk188/metadata/refs/heads/main/project.best88.manifest",
+    "requireApp": false,
+    "favicon": "https://imagedelivery.net/_F7X7PhUPpkXInVy9R5dRg/b944ddcb-da31-4077-acf7-5ae5316cda00/public"
   }
 }
